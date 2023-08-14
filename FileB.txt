@@ -1,0 +1,2 @@
+this is fileB
+will do a change
