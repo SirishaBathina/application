@@ -1,0 +1,3 @@
+this is fileB
+will do a change git add 
+this is squash
